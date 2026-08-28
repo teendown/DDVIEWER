@@ -1,0 +1,29 @@
+[
+  {
+    "id": "사각형 1",
+    "projectId": "proj_default",
+    "drawingId": "dwg_schematic_01",
+    "type": "rectangle",
+    "label": "사각형 1",
+    "x": 0.217572,
+    "y": 0.198011,
+    "width": 0.332291,
+    "height": 0.530015,
+    "strokeColor": "#6366f1",
+    "fillColor": "#1e1b4b",
+    "fillOpacity": 0.8,
+    "fillEnabled": true,
+    "strokeWidth": 3,
+    "opacity": 1,
+    "startCap": "none",
+    "endCap": "none",
+    "lineStyle": "solid",
+    "borderRadius": 0,
+    "fontSize": 16,
+    "fontFamily": "monospace",
+    "visible": true,
+    "locked": false,
+    "createdAt": "2026-08-27T09:05:40.649Z",
+    "updatedAt": "2026-08-27T09:05:40.649Z"
+  }
+]

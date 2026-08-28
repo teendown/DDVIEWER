@@ -1,0 +1,128 @@
+[
+  {
+    "id": "텍스트 1",
+    "projectId": "proj_default",
+    "drawingId": "dwg_w4w9xmr",
+    "type": "text",
+    "label": "메모 입력...",
+    "text": "ECU\n",
+    "strokeColor": "#ec4899",
+    "fontSize": 20,
+    "fontFamily": "Pretendard, sans-serif",
+    "x": 0.705542,
+    "y": 0.178078,
+    "visible": true,
+    "locked": false,
+    "createdAt": "2026-08-27T08:35:01.795Z",
+    "updatedAt": "2026-08-27T08:36:12.272Z",
+    "fontWeight": "bold",
+    "width": 0.054554,
+    "height": 0.048622,
+    "rotation": 0,
+    "fillColor": "#ec4899",
+    "borderWidth": 4,
+    "textAlign": "center"
+  },
+  {
+    "id": "텍스트 2",
+    "projectId": "proj_default",
+    "drawingId": "dwg_w4w9xmr",
+    "type": "text",
+    "label": "메모 입력...",
+    "text": "15",
+    "strokeColor": "#84cc16",
+    "fontSize": 14,
+    "fontFamily": "Pretendard, sans-serif",
+    "x": 0.10866,
+    "y": 0.156431,
+    "visible": true,
+    "locked": false,
+    "createdAt": "2026-08-27T08:36:27.449Z",
+    "updatedAt": "2026-08-27T08:38:08.969Z",
+    "fillColor": "#004cff",
+    "width": 0.021259,
+    "height": 0.015757,
+    "rotation": 0,
+    "fillOpacity": 1,
+    "padding": 4,
+    "borderRadius": 0,
+    "borderEnabled": true,
+    "borderColor": "#ff0000"
+  },
+  {
+    "id": "화살표 1",
+    "projectId": "proj_default",
+    "drawingId": "dwg_w4w9xmr",
+    "type": "arrow",
+    "label": "화살표 1",
+    "x": 0.126742,
+    "y": 0.153965,
+    "width": 0.538773,
+    "height": 0.000578,
+    "points": [
+      {
+        "x": 0.126742,
+        "y": 0.153965
+      },
+      {
+        "x": 0.665515,
+        "y": 0.154543
+      }
+    ],
+    "strokeColor": "#10b981",
+    "strokeWidth": 3,
+    "lineStyle": "solid",
+    "fillEnabled": false,
+    "fillColor": "#6366f1",
+    "fillOpacity": 0.2,
+    "startCap": "none",
+    "endCap": "arrow",
+    "arrowScaleRatio": 1,
+    "connectorType": "polyline",
+    "visible": true,
+    "locked": false,
+    "createdAt": "2026-08-27T08:33:59.417Z",
+    "updatedAt": "2026-08-27T08:34:12.834Z",
+    "groupId": "그룹 1"
+  },
+  {
+    "id": "화살표 1-1",
+    "projectId": "proj_default",
+    "drawingId": "dwg_w4w9xmr",
+    "type": "arrow",
+    "label": "화살표 1-1",
+    "x": 0.483808,
+    "y": 0.088105,
+    "width": 0.126163,
+    "height": 0.06586,
+    "points": [
+      {
+        "x": 0.484205,
+        "y": 0.153965
+      },
+      {
+        "x": 0.483808,
+        "y": 0.088105
+      },
+      {
+        "x": 0.609972,
+        "y": 0.088394
+      }
+    ],
+    "strokeColor": "#ef4444",
+    "strokeWidth": 3,
+    "lineStyle": "solid",
+    "fillEnabled": false,
+    "fillColor": "#6366f1",
+    "fillOpacity": 0.2,
+    "startCap": "none",
+    "endCap": "arrow",
+    "arrowScaleRatio": 1,
+    "connectorType": "polyline",
+    "visible": true,
+    "locked": false,
+    "createdAt": "2026-08-27T08:34:12.833Z",
+    "updatedAt": "2026-08-27T08:34:15.752Z",
+    "groupId": "그룹 1"
+  }
+]

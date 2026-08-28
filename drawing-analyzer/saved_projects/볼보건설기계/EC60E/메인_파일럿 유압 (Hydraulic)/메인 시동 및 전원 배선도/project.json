@@ -1,0 +1,16 @@
+{
+  "id": "proj_default",
+  "name": "[볼보건설기계] EC60E - 메인 시동 및 전원 배선도",
+  "manufacturer": "볼보건설기계",
+  "model": "EC60E",
+  "systemCategory": "메인/파일럿 유압 (Hydraulic)",
+  "drawingTitle": "메인 시동 및 전원 배선도",
+  "author": "정비엔지니어",
+  "description": "메인 시동 회로 및 파일럿 유압 밸브 블록 회로도 분석 프로젝트",
+  "schemaVersion": 1,
+  "appVersion": "1.0.0",
+  "createdAt": "2026-08-27T08:32:10.665Z",
+  "updatedAt": "2026-08-27T09:11:23.809Z",
+  "diskFolder": "D:\\허강\\프로그램\\뷰어만들기\\drawing-analyzer\\saved_projects\\볼보건설기계\\EC60E\\메인_파일럿 유압 (Hydraulic)\\메인 시동 및 전원 배선도",
+  "savedAt": "2026-08-27T09:11:23.813Z"
+}
