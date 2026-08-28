@@ -4,35 +4,23 @@
 
 ---
 
-## 🚀 초간편 다운로드 & 설치 가이드 (10초 원스톱)
+## 🌐 1초 만에 바로 실행하기 (설치 없이 링크만 클릭!)
 
-인터넷이 되지 않는 현장이나 다른 컴퓨터에서도 **단 한 번의 클릭**으로 즉시 설치 및 실행할 수 있습니다.
+아래 링크를 누르면 설치할 필요 없이 **웹 브라우저에서 프로그램이 즉시 실행**됩니다:
 
-### 방법 1. 원스톱 자동 설치 파일 다운로드 (추천 ⭐)
-1. 상단 파일 목록 또는 릴리즈에서 **`스마트_도면분석기_원스톱설치기.bat`** 또는 **`스마트_도면분석기_카카오톡전송용_설치팩.zip`** 파일을 다운로드합니다.
-2. 다운로드한 파일을 더블클릭하여 실행합니다.
-3. 바탕화면에 **`⚡ 스마트 도면분석기 (DDVIEWER)`** 바로가기가 자동으로 생성되며 프로그램이 즉시 실행됩니다!
+👉 **[⚡ 스마트 도면분석기 바로 실행하기 (https://teendown.github.io/DDVIEWER/)](https://teendown.github.io/DDVIEWER/)**
+
+> 💡 **웹에서 내 컴퓨터 앱으로 설치하는 법**:
+> 위 링크로 접속한 후, 화면 우측 상단의 **`[📲 앱 설치]`** 버튼을 누르시면 바탕화면에 윈도우 앱으로 즉시 설치되어 인터넷이 끊겨도 언제든 실행됩니다!
 
 ---
 
-## 💻 개발자 및 소스코드 직접 실행 방법
+## 🚀 오프라인 원스톱 설치 파일 (인터넷 안 되는 현장용)
 
-Node.js 환경이 설치되어 있는 경우 소스코드로 직접 실행할 수 있습니다:
+인터넷이 되지 않는 현장이나 다른 컴퓨터로 보낼 때는 아래 링크를 눌러 다운로드받으세요:
 
-```bash
-# 1. 저장소 복제 (Clone)
-git clone https://github.com/teendown/DDVIEWER.git
-
-# 2. 프로젝트 폴더로 이동
-cd DDVIEWER/drawing-analyzer
-
-# 3. 의존성 패키지 설치
-npm install
-
-# 4. 개발 서버 실행
-npm run dev
-```
-> 실행 후 브라우저에서 `http://localhost:5173` 으로 접속합니다.
+* 📦 **[⚡ 원스톱 원클릭 설치 파일 다운로드 (스마트_도면분석기_원스톱설치기.bat)](https://raw.githubusercontent.com/teendown/DDVIEWER/main/%EC%8A%A4%EB%A7%88%ED%8A%B8_%EB%8F%84%EB%A9%B4%EB%B6%84%EC%84%9D%EA%B8%B0_%EC%9B%90%EC%8A%A4%ED%86%B1%EC%84%A4%EC%B1%84%EA%B8%B0.bat)**
+* 💬 **[카카오톡 전송용 압축팩 다운로드 (0.62MB)](https://raw.githubusercontent.com/teendown/DDVIEWER/main/%EC%8A%A4%EB%A7%88%ED%8A%B8_%EB%8F%84%EB%A9%B4%EB%B6%84%EC%84%9D%EA%B8%B0_%EC%71%EC%B9%B4%EC%98%A4%ED%86%A1%EC%A0%84%EC%86%A1%EC%9A%A9_%EC%84%A4%EC%B1%84%ED%8C%A9.zip)**
 
 ---
 
@@ -45,11 +33,3 @@ npm run dev
 * 👤 **엔지니어 작업자 인증 허브**: 작업자 카드 원클릭 전환, PIN 인증, 안전 로그아웃
 * ⌨️ **전문가용 CAD 단축키**: `V(선택)`, `A(화살표)`, `C/W(배선)`, `Space(패닝)`, `Ctrl+0(맞춤)`, `F1(단축키 도움말)`
 * 🌐 **100% 오프라인 PWA 지원**: 인터넷 연결 없는 현장에서도 완벽 단독 구동
-
----
-
-## 🛠️ 기술 스택
-* **Frontend**: React 19, TypeScript, Vite, TailwindCSS
-* **Graphics Core**: Fabric.js v6 (HTML5 Canvas Vector Engine)
-* **Offline Engine**: Vite PWA (Service Worker & Cache Storage)
-* **Packaging**: Windows VBScript & Batch Automation
